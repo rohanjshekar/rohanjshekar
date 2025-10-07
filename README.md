@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi — I’m Rohan J S, a recent MCA graduate (2024) from Mandya, Karnataka. I specialize in Java Full-Stack development — core skills include Java, Spring Boot, Hibernate, JDBC, MySQL, HTML/CSS/JS, and Python. I build practical projects like an Animal Intrusion Detection & Alert System (Raspberry Pi + CV), a Lost & Found Management System, and Library Management web apps. I enjoy learning new frameworks and improving code quality with tests and clean architecture. Always open to collaborations and learning opportunities.<br>
+Hi, I’m Rohan J S, a recent MCA graduate (2024) from Mandya, Karnataka. I specialize in Java Full-Stack development — core skills include Java, Spring Boot, Hibernate, JDBC, MySQL, HTML,CSS,JavaScript, and Python. I build practical projects like an Animal Intrusion Detection & Alert System (Raspberry Pi + CV), a Lost & Found Management System, and Library Management web apps. I enjoy learning new frameworks and improving code quality with tests and clean architecture. Always open to collaborations and learning opportunities.<br>
 
 
 ## 🌐 Socials:
